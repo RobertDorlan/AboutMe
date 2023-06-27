@@ -1,5 +1,5 @@
 .gradient-background {
-    background: linear-gradient(300deg, #5d5b5b, rgb(6, 6, 6), #000000);
+    background: linear-gradient(100deg, #5d5b5b, rgb(6, 6, 6), #000000);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
   }
@@ -22,7 +22,10 @@
   }
 
 
-
+.image11{
+    background-color: whitesmoke;
+    
+}
  
 
 
@@ -41,9 +44,11 @@
 }
 
 
+.midletext{
+    margin-top: 18%;
+}
+
   
-
-
 
 
 
