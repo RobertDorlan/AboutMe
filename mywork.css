@@ -1,0 +1,35 @@
+.gradient-background {
+    background: linear-gradient(500deg, #5d5b5b, rgb(6, 6, 6), #000000);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+
+  .main-background{
+    background-color: #000000;
+  }
+
+
+
+  .mywork{
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+
+
+  .initials{
+    font-family: 'Times New Roman', Times, serif;
+
+  }
